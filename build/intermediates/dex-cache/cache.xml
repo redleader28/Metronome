@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="15bb1c18d72765eab6e02f2467acdd0ea1f7e596">
+        sha1="bf5cc7f893baffdd69704f1acef68c3d2ffd5849">
         <dex dex="/home/mike/Workspace/AndroidStudioProjects/Metronome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9c25ad68e6b16da29f9b1abf0a278a66a3173b4/classes.dex" />
     </item>
     <item
@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f9ba50ad516fb9144d74b1c739e9c39870b87992">
+        sha1="8d4f5d80a589c70063e4b4ca5c96a97774df1363">
         <dex dex="/home/mike/Workspace/AndroidStudioProjects/Metronome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d0ce3718e6db31fd9fe52e48b18e4feac166ee7f/classes.dex" />
     </item>
     <item
